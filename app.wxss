@@ -1,0 +1,4 @@
+@charset "UTF-8";image,scroll-view,text,view{box-sizing:border-box}page{font-family:"BlinkMacSystemFont","Segoe UI","Roboto","Helvetica Neue","Arial","Noto Sans","Liberation Sans","sans-serif","Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"}view{-webkit-tap-highlight-color:transparent}
+@import "./common.wxss";
+
+@import "./discuzq.wxss";
